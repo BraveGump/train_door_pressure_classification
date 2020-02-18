@@ -1,8 +1,6 @@
 # train_door_pressure_classification
 
-ubuntu 16.04
-python3.6
-pytorch
+ubuntu 16.04, python3.6, pytorch
 
 The ‘save open/close’ files are used to train the models, the ‘load open/close’ files are used to test the well-trained models, and the ‘pm_loss’ file is the loss function file.
 
